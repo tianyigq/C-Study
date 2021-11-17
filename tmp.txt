@@ -1,0 +1,7 @@
+This in a tmp Files
+tiangq First!
+
+get status 
+tiangq Second!
+ get status two
+ tiangq Second!
